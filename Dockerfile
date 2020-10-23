@@ -1,1 +1,1 @@
-From k8s.gcr.io/kube-proxy:v1.17.1
+From gcr.io/ml-pipeline/ml-pipeline-gcp:bae654dc5cf407359ac5f822d03833768739c4c1
